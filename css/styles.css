@@ -181,6 +181,7 @@ img {
   display: flex;
   flex-direction: column;
   gap: 40px;
+  align-items: flex-start;
 }
 .nav-link-mobile-menu {
   font-size: 36px;
@@ -197,8 +198,9 @@ img {
 }
 .address-list-mobile-menu {
   display: flex;
+  align-items: flex-start;
   flex-direction: column;
-  gap: 24px;
+  gap: 40px;
 }
 .contact-mobile-menu-tel {
   font-size: 20px;
