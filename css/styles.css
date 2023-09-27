@@ -582,6 +582,10 @@ img {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
+.subscribe-form-btn:hover,
+.subscribe-form-btn:focus {
+    background-color: #404bbf;
+}
 .subscribe-form-icon {
   margin-left: 16px;
 }
